@@ -7,7 +7,7 @@ Segundo especialistas, uma mudança na headline pode aumentar de 5 a 10 vezes a 
 
 E como conectar as headlines com o público? Falando a mesma linguagem que eles.
 
-Por isso foi usado python para consumir uma API do youtube para extrair comentários de videos especificos do público, e com isso podemos saber as palavras mais usadas pelo público e poder elaborar melhor as headlines e temas pros videos.
+Usando python eu pude consumir uma API do youtube para extrair comentários de vídeos específicos do público, e com isso tratar os comentários e medir a frequência das palavras mais usadas pelo público e poder elaborar melhor as headlines e temas pros vídeos.
 
 
 
